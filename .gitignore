@@ -71,3 +71,6 @@ prompt_stats.json
 # SeleniumBase
 seleniumbase/
 .seleniumbase/
+
+# Chat history backup
+chat_backup/
